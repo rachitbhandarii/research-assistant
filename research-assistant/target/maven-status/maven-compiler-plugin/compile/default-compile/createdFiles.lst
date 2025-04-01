@@ -1,0 +1,8 @@
+com\research\assistant\ResearchRequest.class
+com\research\assistant\ResearchController.class
+com\research\assistant\GeminiResponse$Part.class
+com\research\assistant\GeminiResponse$Candidate.class
+com\research\assistant\GeminiResponse.class
+com\research\assistant\GeminiResponse$Content.class
+com\research\assistant\ResearchService.class
+com\research\assistant\ResearchAssistantApplication.class
